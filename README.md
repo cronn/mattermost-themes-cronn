@@ -12,7 +12,7 @@ switch to `Custom Theme` and paste:
 * cronn The Light Side:
 ```json
 {
-  "awayIndicator": "#c9c9c9",
+  "awayIndicator": "#8a99b7",
   "buttonBg": "#10ad58",
   "buttonColor": "#ffffff",
   "centerChannelBg": "#ffffff",
@@ -42,7 +42,7 @@ switch to `Custom Theme` and paste:
 * cronn The Dark Side:
 ```json
 {
-  "awayIndicator": "#c9c9c9",
+  "awayIndicator": "#8a99b7",
   "buttonBg": "#10ad58",
   "buttonColor": "#ffffff",
   "centerChannelBg": "#454343",
